@@ -1,0 +1,24 @@
+{
+  "name": "com.omnishift.twitchpartyvisualizer",
+  "version": "0.0.1",
+  "description": "Twitch chatbot for visualizing custom channel point events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmniShift/twitch-party-visualizer.git"
+  },
+  "keywords": [
+    "twitch",
+    "chatbot",
+    "points"
+  ],
+  "author": "OmniShift",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmniShift/twitch-party-visualizer/issues"
+  },
+  "homepage": "https://github.com/OmniShift/twitch-party-visualizer#readme"
+}
